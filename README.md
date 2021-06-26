@@ -1,4 +1,5 @@
-# data_processing
+# CSV data processing
+Process csv data, save graphs as images, and save processed data to excel files
 
-Name
-====
+## DEMO
+CSV => png, excel
